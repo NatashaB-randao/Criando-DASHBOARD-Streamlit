@@ -23,7 +23,7 @@ Além disso, no exemplo apresentado, utilizamos duas bibliotecas essenciais para
 
 - **Pandas:** O Pandas é uma poderosa biblioteca para manipulação e análise de dados em Python. Ele fornece estruturas de dados flexíveis, como DataFrames, que são eficientes para lidar com dados tabulares. No exemplo, usamos o Pandas para criar um DataFrame simulando dados de preços de imóveis.
 - **NumPy:** O NumPy é uma biblioteca fundamental para computação numérica em Python. Ela fornece um objeto de array multidimensional (ndarray), que é eficiente para operações matemáticas em dados. Utilizamos o NumPy para gerar dados aleatórios para preços de imóveis no exemplo.
-- **Plotly:** O Plotly é uma biblioteca gráfica interativa que permite criar visualizações de dados interativas e elegantes. Embora não tenha sido explicitamente usado no exemplo, o Streamlit suporta o uso do Plotly para a criação de gráficos interativos, proporcionando uma experiência de visualização ainda mais rica para seus dashboards. O Plotly é especialmente útil para criar gráficos como mapas interativos, gráficos 3D e gráficos dinâmicos.
+- **Plotly:** O Plotly é uma biblioteca gráfica interativa que permite criar visualizações de dados interativas e elegantes. O Streamlit suporta o uso do Plotly para a criação de gráficos interativos, proporcionando uma experiência de visualização ainda mais rica para seus dashboards. O Plotly é especialmente útil para criar gráficos como mapas interativos, gráficos 3D e gráficos dinâmicos.
 
 ## Principais Recursos
 
