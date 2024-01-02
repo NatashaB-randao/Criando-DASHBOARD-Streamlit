@@ -15,6 +15,9 @@ pip install pandas
 ```bash
 pip install numpy
 ```
+```bash
+pip install plotly
+```
 
 Além disso, no exemplo apresentado, utilizamos duas bibliotecas essenciais para manipulação e geração de dados: o Pandas e o NumPy.
 

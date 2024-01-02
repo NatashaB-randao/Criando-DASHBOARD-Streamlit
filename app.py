@@ -85,7 +85,7 @@ def show_option(opcao):
         # Gerando dados aleatórios para o gráfico de pizza
         df_pizza = pd.DataFrame(
             {'Tipo de Propriedade': ['Apartamento', 'Casa', 'Escritório'],
-             'Percentual': [30, 40, 30]}
+            'Percentual': [30, 40, 30]}
         )
 
         # Gráfico de linha
@@ -106,7 +106,7 @@ def show_option(opcao):
         # Gerando dados aleatórios para o gráfico de pizza
         df_pizza = pd.DataFrame(
             {'Tipo de Propriedade': ['Residencial', 'Comercial', 'Industrial'],
-             'Percentual': [25, 35, 40]}
+            'Percentual': [25, 35, 40]}
         )
 
         # Gráfico de linha
@@ -128,7 +128,7 @@ def show_option(opcao):
         # Gerando dados aleatórios para o gráfico de pizza
         df_pizza = pd.DataFrame(
             {'Tipo de Propriedade': ['Residencial', 'Comercial', 'Industrial'],
-             'Percentual': [45, 20, 35]}
+            'Percentual': [45, 20, 35]}
         )
 
         # Gráfico de linha
